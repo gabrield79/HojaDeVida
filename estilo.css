@@ -12,7 +12,7 @@ body {
 }
 
 .name .content{
-    width: 100%;
+    width: 80%;
     height: 30%;
     position: absolute;
     left: 20%;
@@ -22,12 +22,19 @@ body {
 .name .content .h1{
     color: black;
     font-family:'Roboto', sans-serif;
-    
+    margin-top: 0%;
     
 }
 
 .name .content .h2{
     color: black;
     font-family:'Roboto', sans-serif;
-    
+    margin-top: 0%;
+}
+
+.info{
+    width: 90%;
+    height: auto;
+    background: aqua;
+    margin: auto;
 }
