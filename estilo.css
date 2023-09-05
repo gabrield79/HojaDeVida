@@ -1,0 +1,33 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    background: beige;
+}
+
+.name {
+    width: 80%;
+    height: 80%;
+    margin: 0 auto;
+    background: yellow;
+}
+
+.name .content{
+    width: 100%;
+    height: 30%;
+    position: absolute;
+    left: 20%;
+    background: aqua;
+}
+
+.name .content .h1{
+    color: black;
+    font-family:'Roboto', sans-serif;
+    
+    
+}
+
+.name .content .h2{
+    color: black;
+    font-family:'Roboto', sans-serif;
+    
+}
